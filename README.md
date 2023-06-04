@@ -1,4 +1,4 @@
-# microservices-training-config-server
+# microservices-training-config-server-perf
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/Faiselis007/microservices-training-config-server.git
+git remote add origin https://gitlab.com/Faiselis007/microservices-training-config-server-perf.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/Faiselis007/microservices-training-config-server/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/Faiselis007/microservices-training-config-server-perf/-/settings/integrations)
 
 ## Collaborate with your team
 
